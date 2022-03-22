@@ -1,6 +1,6 @@
 11-Mar-2022 | 07:40
 
-Status: #ExploreMore 
+Status: #SlipBox 
 Tags: #Python/Composing-Programs #FirstPT #CS 
 
 ---
@@ -15,7 +15,9 @@ By returning a function as return value.
 
 Why to have higher order function ?
 
-There are common programming pattern that recur in the code, in order to achieve abstractions assigning names to common pattern.
+There are common programming pattern that recur in the code, in order to achieve abstractions assigning names for common pattern.
+
+[[Higher order Programming]]
 
 ```ad-important
 title: Patterns

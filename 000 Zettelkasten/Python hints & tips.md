@@ -49,3 +49,11 @@ title: Tuple of length one
 
 ```
 
+```py
+
+learn to return Bool directly comparing in an return itself, like return aStr == char
+
+Than using if and else
+```
+
+^fb9e0d

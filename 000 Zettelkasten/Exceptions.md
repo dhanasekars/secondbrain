@@ -18,7 +18,7 @@ We can raise our own excpetions
 
 Don't think exceptions block is only for errors, they are more powerful. We can use them to control flows. Remember using it in [[CS50]] [[Flask]] exercise? Where a type casting error was captured and used to control the flow.
 
-In [[Dictionaries]] we can use keyerror to control the flow. 
+In [[Phython - Dictionaries]] we can use keyerror to control the flow. 
 
 The best practical scenario is while dealing with lists or list of lists that don't have standard items in a list. 
 

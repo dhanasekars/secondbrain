@@ -19,4 +19,4 @@ There were a few logical flaws.
 
 ---
 # Reference
-[[My common programming mistakes]]
+[[Learnings]]

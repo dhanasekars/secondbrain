@@ -7,7 +7,7 @@
 title: Keep near zero
 
 This data view of notes tagged #ExploreMore 
-#exclude this file
+
 
 An #ExploreMore notes get in when not enough reading was done on the topic. It is important to clear off this before reading any new topics.
 
@@ -16,3 +16,4 @@ An #ExploreMore notes get in when not enough reading was done on the topic. It i
 ``` dataview
 LIST FROM #ExploreMore and !#exclude
 ```
+

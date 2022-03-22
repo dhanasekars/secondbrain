@@ -30,6 +30,6 @@ When not sure how modules are called and work, create these kind of simple files
 
 ---
 # Reference
-
+[[Learnings]]
 
 [[Introduction to Computer Science and Programming Using Python MIT 6.00.1x]]

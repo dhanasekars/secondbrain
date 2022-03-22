@@ -5,7 +5,6 @@ title: Moonshot
 # To become a technical leader in a deep tech start up by early 2024
 ``````
 
-
 ```ad-important
 title: Rocket Scientist Thinking
 
@@ -21,13 +20,11 @@ title: Rocket Scientist Thinking
 
 ```
 
-
-
 # Connected MOCs
 
 [[Data Science MOC]]
 [[Computational Thinking MOC]]
-
+[[Mental Models MOC]]
 
 # Reference
 

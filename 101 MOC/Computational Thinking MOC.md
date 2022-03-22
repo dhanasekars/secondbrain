@@ -11,7 +11,7 @@ title: What is computational thinking?
 ```ad-important
 title: What does computer do?
 
-It does do things, two things really really fast and accurately
+It does two things, two things really really fast and accurately
 
 - Performs calculations
 - Remembers the results 
@@ -19,7 +19,6 @@ It does do things, two things really really fast and accurately
 ```
 
  [[Computer = powerful + stupid]]
-
 
 [[Knowledge]] 
 
