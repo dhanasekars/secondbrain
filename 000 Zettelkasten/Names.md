@@ -1,8 +1,5 @@
 09-Mar-2022 | 13:50
 
-Status : #SlipBox 
-Tags : #CS #coding #Python/Composing-Programs 
-
 
 # Names 
 

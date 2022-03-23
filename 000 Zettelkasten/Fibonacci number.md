@@ -1,7 +1,5 @@
 `22-Mar-2022 | 10:30`
 
-Status: #ExploreMore 
-Tags: #CS #maths 
 
 ---
 # Fibonacci number

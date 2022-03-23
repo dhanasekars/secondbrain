@@ -1,9 +1,5 @@
 07-Mar-2022 | 21:48
 
-Status : #SlipBox  
-Tags : #Evolution #quotes #meaningfulwork
-
-
 
 # Trial and error
 
@@ -20,3 +16,4 @@ The ability to control our worl and change course is necesary. More control we h
 
 # Reference
 [[How To Take Smart Notes]]
+[[Mental Models MOC]]

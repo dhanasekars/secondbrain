@@ -1,9 +1,5 @@
 07-Mar-2022 | 21:45
 
-Status : #Moonshot 
-Tags : #creativity
-
-
 
 
 # creativity

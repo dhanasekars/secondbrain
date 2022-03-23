@@ -1,10 +1,6 @@
 16-Mar-2022 | 09:52
 
-Status: #SlipBox 
-Tags: #Mentalmodels #design-patterns
-
-
----
+--
 # is brick an essential object ?
 Chapter : A map of the cat.
 

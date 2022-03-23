@@ -1,8 +1,5 @@
 `20-Mar-2022 | 18:07`
 
-Status: #SlipBox 
-Tags: #CS #FirstPT #debugging
-
 
 ---
 # Debugging Mental Model
@@ -36,3 +33,4 @@ After fixing run
 # Reference
 [[Computational Thinking MOC]]
 [[Introduction to Computation and Programming using Python]] Chapter 6
+[[Mental Models MOC]]

@@ -1,12 +1,11 @@
 14-Mar-2022 | 12:26
 
-Status: 
-Tags:
 
 ---
 # Knowledge
 
 Two types of knowledge
+[[What is knowledge?]]
 
 ## Declarative knowledge
 - Statement of facts
@@ -29,3 +28,4 @@ This imperative knowledge (the recipe) is [[Algorithms]]
 ---
 # Reference
 [[Computational Thinking MOC]]
+[[What is knowledge?]]

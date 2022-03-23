@@ -1,7 +1,5 @@
 13-Mar-2022 | 18:05
 
-Status: #SlipBox 
-Tags: #Leadership 
 
 ---
 # Retention according to Jerry Weinberg
@@ -19,3 +17,5 @@ Tags: #Leadership
 # Reference
 
 [[Psychology of Computer Programming]]
+
+[[Leadership MOC]]

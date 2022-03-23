@@ -1,8 +1,5 @@
 `19-Mar-2022 | 12:18`
 
-Status: #SlipBox 
-Tags: #CS #FirstPT 
-
 ---
 # Recursive function
 

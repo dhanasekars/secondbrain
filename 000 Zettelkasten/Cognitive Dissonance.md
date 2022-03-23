@@ -1,7 +1,5 @@
 15-Mar-2022 | 14:19
 
-Status: #exclude 
-Tags: #Psychology #Cognitive
 
 ---
 # Cognitive Dissonance

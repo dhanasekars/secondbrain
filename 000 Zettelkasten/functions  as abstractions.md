@@ -1,7 +1,5 @@
 10-Mar-2022 | 16:37
 
-Status: #SlipBox 
-Tags: #Python/Composing-Programs #coding #CS #FirstPT 
 
 ---
 # functions as abstractions

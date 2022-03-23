@@ -1,8 +1,5 @@
 07-Mar-2022 | 22:14
 
-Status : #SlipBox  
-Tags : #Mentalmodels #OrganisingNotes 
-
 
 # Network of ideas
 
@@ -12,3 +9,4 @@ Tags : #Mentalmodels #OrganisingNotes
 
 # Reference
 [[How To Take Smart Notes]]
+[[Mental Models MOC]]

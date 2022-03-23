@@ -1,5 +1,8 @@
 # Computational Thinking MOC
 
+#🏡
+
+
 ```ad-question
 title: What is computational thinking?
 

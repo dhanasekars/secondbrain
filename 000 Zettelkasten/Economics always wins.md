@@ -1,8 +1,5 @@
 07-Mar-2022 | 21:58
 
-Status : #SlipBox 
-Tags : #EconomicsThinking
-
 
 # Economics always wins
 

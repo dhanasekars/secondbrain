@@ -1,7 +1,6 @@
 `19-Mar-2022 | 20:32`
 
-Status: #Learnings 
-Tags: #CS #FirstPT #Python 
+
 
 ---
 # Learnings from gcd using Euclid's Algorithm
@@ -59,4 +58,4 @@ gcdRecur(140,154)
 
 
 
-[[Learnings]]
+[[Computation thinking - Learnings]]

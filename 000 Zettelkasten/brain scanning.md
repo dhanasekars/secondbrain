@@ -1,7 +1,6 @@
 04-Mar-2022 | 22:25
 
-Status : #SlipBox 
-Tags : #Mentalmodels 
+
 
 
 # brain scanning
@@ -17,4 +16,4 @@ So better to use visual non-linear tools like [[mindmaps]] [[Obsidian]] etc.,
 
 [[How To Take Smart Notes]] - Referring Zull
 
-
+[[Mental Models MOC]]

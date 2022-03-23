@@ -1,7 +1,5 @@
 13-Mar-2022 | 18:10
 
-Status: #SlipBox 
-Tags: #Leadership  #Psychology 
 
 ---
 # Types of leadership
@@ -13,3 +11,4 @@ Maintenance oriented - Resolve conflicts,
 ---
 # Reference
 [[Psychology of Computer Programming]]
+[[Leadership MOC]]

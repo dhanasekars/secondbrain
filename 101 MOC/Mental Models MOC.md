@@ -1,6 +1,6 @@
 
 # Mental Models MOC
-
+#🏡
 Capture all mental models that can be applied to take decisions, and used in learning.
 
 The mental models are classified to #design-patterns and #anti-patterns based on the book [[Super Thinking]]
@@ -24,4 +24,6 @@ Example : Test automation cone - anti-pattern
 
 [[is brick an essential object?]]
 
-[[Super Thinking]]
+[[Super Thinking]] 
+
+[[ The Great Mental Models]]

@@ -1,7 +1,6 @@
 13-Mar-2022 | 13:37
 
-Status: 
-Tags: #Law #system #simplicity  
+#📝 
 
 ---
 # Gall's Law

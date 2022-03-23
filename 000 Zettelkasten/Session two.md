@@ -1,5 +1,6 @@
 Session Two
 
+#LearnByTeaching 
 
 https://www.reddit.com/r/PKMS/comments/nfef59/list_of_personal_knowledge_management_systems/ 
 
@@ -12,8 +13,7 @@ Advantages of flash cards
 
 
 
-
-
+[[What is knowledge?]]
 
 
 This is the most important  https://youtu.be/E6ySG7xYgjY  
@@ -21,6 +21,7 @@ https://dev.to/bretzawilski/using-zettelkasten-and-obsidian-to-learn-more-effect
 
 
 Use these
+[[MOC]]
 
 [[Gall's Law]]
 

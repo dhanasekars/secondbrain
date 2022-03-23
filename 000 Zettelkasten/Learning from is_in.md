@@ -1,7 +1,5 @@
 `21-Mar-2022 | 20:10`
 
-Status: #Learnings 
-Tags: #CS #Python 
 
 ---
 # Learning from is_in
@@ -21,4 +19,4 @@ Spent an hour, but it was more efficient than hurry to complete the code.
 
 ---
 # Reference
-[[Learnings]]
+[[Computation thinking - Learnings]]

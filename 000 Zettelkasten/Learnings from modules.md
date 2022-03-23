@@ -1,7 +1,6 @@
 `19-Mar-2022 | 19:09`
 
-Status:  #SlipBox 
-Tags: #CS #Python 
+
 
 ---
 # Learnings from modules
@@ -30,6 +29,6 @@ When not sure how modules are called and work, create these kind of simple files
 
 ---
 # Reference
-[[Learnings]]
+[[Computation thinking - Learnings]]
 
 [[Introduction to Computer Science and Programming Using Python MIT 6.00.1x]]

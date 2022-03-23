@@ -1,7 +1,5 @@
 14-Mar-2022 | 12:35
 
-Status: #SlipBox 
-Tags: #CS 
 
 ---
 # Turning complete

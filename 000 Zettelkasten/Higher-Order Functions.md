@@ -1,7 +1,6 @@
 11-Mar-2022 | 07:40
 
-Status: #SlipBox 
-Tags: #Python/Composing-Programs #FirstPT #CS 
+
 
 ---
 # Higher-Order [[Functions]]

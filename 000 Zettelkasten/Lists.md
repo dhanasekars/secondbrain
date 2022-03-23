@@ -1,7 +1,5 @@
 `20-Mar-2022 | 13:32`
 
-Status: #string 
-Tags: #CS #Python 
 
 ---
 # Lists

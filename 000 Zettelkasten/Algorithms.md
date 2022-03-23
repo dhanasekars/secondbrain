@@ -1,7 +1,5 @@
 14-Mar-2022 | 12:29
 
-Status: #SlipBox 
-Tags: #FirstPT #CS 
 
 ---
 # Algorithms

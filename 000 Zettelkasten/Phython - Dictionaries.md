@@ -1,7 +1,5 @@
 `21-Mar-2022 | 11:50`
 
-Status: #SlipBox 
-Tags: #CS #Python 
 
 ---
 # Dictionaries

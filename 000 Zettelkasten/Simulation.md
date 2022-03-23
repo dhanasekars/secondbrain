@@ -1,7 +1,6 @@
 07-Mar-2022 | 14:59
 
-Status : #ExploreMore  
-Tags : #Mentalmodels #simulation
+#📝 
 
 
 # Simulation

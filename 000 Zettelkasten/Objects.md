@@ -1,7 +1,5 @@
 14-Mar-2022 | 12:53
 
-Status: #ExploreMore 
-Tags: #CS #FirstPT 
 
 ---
 # Objects

@@ -2,8 +2,6 @@
 
 10-Mar-2022 | 17:18
 
-Status: #SlipBox 
-Tags: #Python/Composing-Programs #CS #FirstPT 
 
 ---
 # 1.3 Defining New [[Functions]]

@@ -1,8 +1,6 @@
 # Tips 
 
 
-#reverse #string 
-
 Reverse the string 
 ``` py
 
@@ -57,3 +55,5 @@ Than using if and else
 ```
 
 ^fb9e0d
+
+[[Computation thinking - Learnings]]

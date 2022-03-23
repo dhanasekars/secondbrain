@@ -1,8 +1,8 @@
 `21-Mar-2022 | 08:04`
 
-Status: #ExploreMore 
-Tags: #Python 
+#📝  
 
+#
 ---
 # map
 

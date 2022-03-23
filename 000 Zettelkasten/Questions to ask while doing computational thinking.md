@@ -1,8 +1,5 @@
 15-Mar-2022 | 07:44
 
-Status: #questioning
-Tags: #CS #FirstPT 
-
 ---
 # Questions to ask while doing computational thinking
 ---

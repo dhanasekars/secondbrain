@@ -1,7 +1,5 @@
 `19-Mar-2022 | 20:42`
 
-Status: #SlipBox 
-Tags: #maths
 
 ---
 # Euclid's Algorithm

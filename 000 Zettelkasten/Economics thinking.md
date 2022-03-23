@@ -1,7 +1,5 @@
 07-Mar-2022 | 21:57
 
-Status : #SlipBox 
-Tags : #EconomicsThinking
 
 
 # Economics thinking

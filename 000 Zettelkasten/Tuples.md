@@ -1,9 +1,5 @@
 `20-Mar-2022 | 11:47`
 
-Status: #SlipBox 
-Tags: #CS 
-#Python 
-
 ---
 # Tuples
 

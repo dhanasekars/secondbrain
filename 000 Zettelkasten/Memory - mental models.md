@@ -1,7 +1,5 @@
 04-Mar-2022 | 22:17
 
-Status : #SlipBox 
-Tags : #Mentalmodels #moonshot 
 
 
 # Memory - mental models
@@ -15,3 +13,4 @@ Tags : #Mentalmodels #moonshot
 
 # Reference
 [[How To Take Smart Notes]] Page 94
+[[Mental Models MOC]]

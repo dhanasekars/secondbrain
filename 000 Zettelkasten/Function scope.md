@@ -1,7 +1,6 @@
 `17-Mar-2022 | 17:14`
 
-Status: 
-Tags:
+
 
 ---
 # Function scope

@@ -1,7 +1,5 @@
 `21-Mar-2022 | 07:57`
 
-Status: #SlipBox 
-Tags: #CS #FirstPT 
 
 ---
 # Functions are first-class objects

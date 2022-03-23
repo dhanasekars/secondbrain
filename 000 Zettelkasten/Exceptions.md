@@ -1,7 +1,5 @@
 `20-Mar-2022 | 19:11`
 
-Status: 
-Tags:
 
 ---
 # Exceptions

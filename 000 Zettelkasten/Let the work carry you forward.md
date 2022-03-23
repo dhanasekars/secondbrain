@@ -1,8 +1,5 @@
 07-Mar-2022 | 21:54
 
-Status : #SlipBox 
-Tags : #meaningfulwork #moonshot #endogenic #WorkPhilosophy 
-
 
 # Let the work carry you forward
 

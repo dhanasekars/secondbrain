@@ -1,7 +1,5 @@
 10-Mar-2022 | 19:21
 
-Status: #SlipBox 
-Tags: #Python/Composing-Programs #FirstPT 
 
 ---
 # Testing 

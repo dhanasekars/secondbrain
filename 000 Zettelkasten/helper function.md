@@ -1,7 +1,5 @@
 `17-Mar-2022 | 17:22`
 
-Status: #SlipBox 
-Tags: #CS #FirstPT 
 
 ---
 # helper function

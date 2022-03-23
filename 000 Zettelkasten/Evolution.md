@@ -1,7 +1,5 @@
 16-Mar-2022 | 09:12
 
-Status: #SlipBox 
-Tags: #Evolution 
 
 ---
 # Evolution

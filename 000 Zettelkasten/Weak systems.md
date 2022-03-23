@@ -1,7 +1,5 @@
 07-Mar-2022 | 22:03
 
-Status : #SlipBox 
-Tags :
 
 
 # Weak systems

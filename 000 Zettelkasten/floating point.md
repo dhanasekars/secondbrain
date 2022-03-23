@@ -1,10 +1,17 @@
 15-Mar-2022 | 15:04
 
-Status: #SlipBox 
-Tags:#CS #FirstPT 
 
 ---
 # floating point
+
+```ad-caution
+title: approximation
+
+float values should be treated as approximations to real values. These approximations have only a finite amount of precision.
+
+```
+
+
 execute this code to refresh the memory on how floats are stored 
 ```
 x = 0.0

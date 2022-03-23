@@ -1,7 +1,5 @@
 `20-Mar-2022 | 11:55`
 
-Status: #SlipBox 
-Tags: #CS #Python 
 
 ---
 # Range

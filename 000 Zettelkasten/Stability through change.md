@@ -1,9 +1,5 @@
 13-Mar-2022 | 18:17
 
-Status: #SlipBox 
-Tags: #Leadership #projectmanagement
-
-
 ---
 # Stability through change
 
@@ -14,3 +10,4 @@ Tags: #Leadership #projectmanagement
 ---
 # Reference
 [[Psychology of Computer Programming]]
+[[Leadership MOC]]

@@ -1,7 +1,5 @@
 14-Mar-2022 | 12:31
 
-Status: #todo
-Tags: #algorithm
 
 ---
 # Calculating square root of a number

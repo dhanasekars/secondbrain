@@ -1,7 +1,5 @@
 09-Mar-2022 | 15:45
 
-Status: #SlipBox 
-Tags: #CS #FirstPT #Python/Composing-Programs 
 
 
 # Two types of function

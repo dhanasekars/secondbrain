@@ -1,7 +1,5 @@
 09-Mar-2022 | 17:48
 
-Status: #SlipBox 
-Tags: #CS #Python/Composing-Programs #FirstPT 
 
 ---
 # Statement and expressions Flowchart

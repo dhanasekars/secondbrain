@@ -1,7 +1,6 @@
 11-Mar-2022 | 07:30
 
-Status: #ExploreMore  
-Tags: #Python/Composing-Programs #FirstPT 
+#📝 
 
 ---
 # Doctests

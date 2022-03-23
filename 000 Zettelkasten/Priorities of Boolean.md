@@ -1,7 +1,6 @@
 16-Mar-2022 | 18:25
 
-Status: #ExploreMore 
-Tags: #CS #FirstPT 
+#📝 
 
 ---
 # Priorities of Boolean

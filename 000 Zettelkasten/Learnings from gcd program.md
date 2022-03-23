@@ -1,7 +1,6 @@
 `19-Mar-2022 | 18:39`
 
-Status: #Learnings 
-Tags: #CS #coding #Python 
+
 
 ---
 # Learnings from gcd program
@@ -19,4 +18,4 @@ There were a few logical flaws.
 
 ---
 # Reference
-[[Learnings]]
+[[Computation thinking - Learnings]]

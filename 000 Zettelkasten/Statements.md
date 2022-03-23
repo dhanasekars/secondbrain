@@ -1,10 +1,5 @@
 09-Mar-2022 | 15:36
 
-Status : #SlipBox 
-Tags : #CS #Python/Composing-Programs #FirstPT 
-
-
-
 # Statements
 Statements are not evaluated but executed; they do not produce any value but instead make some changes.
 

@@ -1,7 +1,5 @@
 14-Mar-2022 | 12:50
 
-Status: #SlipBox 
-Tags:#CS #FirstPT 
 
 ---
 # Programming errors
