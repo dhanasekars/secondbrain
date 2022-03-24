@@ -7,7 +7,7 @@
 
 The brain is more likely to notice details when it scans than when it focuses. 
 
-So better to use visual non-linear tools like [[mindmaps]] [[Obsidian]] etc.,
+So better to use visual non-linear tools like [[mindmaps]] [[Obsidian MOC]] etc.,
 
 
 ---

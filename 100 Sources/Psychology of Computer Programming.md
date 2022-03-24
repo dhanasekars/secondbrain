@@ -12,15 +12,13 @@ Rating:
 
 Psychology of Computer Programming
 
->Tags:  #Books/CS #Books/Psychology 
-
-
 
 ---
 
 ## Little history
 ---
-The classic book of #Jerry recommended by [[Context Driven Testing]] community.
+The classic book of Jerry  recommended by 
+[[Context Driven Testing]] community.
 
 
 # Notes 

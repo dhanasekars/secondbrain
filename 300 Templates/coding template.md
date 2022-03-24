@@ -4,7 +4,7 @@
 
 
 > {{date:DD-MMM-YYYY}} | {{time:HH:mm}}
-tags: #coding #cs #PythonProgram
+
 
 ---
 

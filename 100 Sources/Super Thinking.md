@@ -13,13 +13,11 @@ Rating: 1/2/3/4/5
 
 # Super Thinking
 
->Tags: #Mentalmodels #Books/Cognitive
-
 ---
 
 ## Little history
 ---
-Found from a Medium article shared by @aravind. Excited because of #Mentalmodels but turns out to be different than what I expected from the book. 
+Found from a Medium article shared by @aravind. Excited because of Mentalmodels but turns out to be different than what I expected from the book. 
 
 Still, I am liking what's there in the book.
 

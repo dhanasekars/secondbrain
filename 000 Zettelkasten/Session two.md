@@ -1,6 +1,5 @@
 Session Two
 
-#LearnByTeaching 
 
 https://www.reddit.com/r/PKMS/comments/nfef59/list_of_personal_knowledge_management_systems/ 
 

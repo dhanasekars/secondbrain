@@ -26,13 +26,3 @@ Computing is a central component because programming allows us to apply analysis
  
 
 
-
-
-
-
-
-
-
-
-
-#exclude 

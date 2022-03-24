@@ -1,8 +1,5 @@
 09-Mar-2022 | 09:51
  
-Tags : #Obsidian 
-
-
 
 
 # Mermaid
@@ -17,4 +14,4 @@ Example --> [[Statements and Expressions flowchart]]
 
 [Mermaid documentation](https://mermaid-js.github.io/mermaid/#/)
 
-[[Obsidian]]
+[[Obsidian MOC]]

@@ -1,7 +1,5 @@
 15-Mar-2022 | 13:22
 
-Status: #SlipBox  
-Tags: #CS #Python 
 
 ---
 # Loops

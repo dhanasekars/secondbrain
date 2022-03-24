@@ -1,7 +1,5 @@
 `22-Mar-2022 | 15:23`
 
-Status: 
-Tags: #Learnings 
 
 ---
 # Learnings from efficient fibonacci

@@ -12,7 +12,6 @@ Rating: 5
 
 # Think Like a Rocket Scientist
 
->Tags: #Books/Cognitive  #moonshot 
 
 ---
 

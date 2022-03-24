@@ -21,8 +21,15 @@ Rating: #NA
 
 # Notes 
 ---
-
-
+[[Admonition]]
+[[Data View]]
+[[Call out]]
+[[markdown]]
+[[math equations]]
+[[Mermaid]]
+[[MOC]]
+[[Status]]
+[[Tags]]
 
 
 

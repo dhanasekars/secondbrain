@@ -1,7 +1,6 @@
 08-Mar-2022 | 14:14
 
-Status : #SlipBox 
-Tags : #Obsidian 
+
 
 
 	Hotkey - ⌘ + A
@@ -52,4 +51,4 @@ Also check out [[Call out]]
 # Reference
 [Admonition](https://github.com/valentine195/obsidian-admonition)
 
-[[Obsidian]]
+[[Obsidian MOC]]

@@ -4,7 +4,7 @@
 #🐍
 
 15-Mar-2022 | 11:50
-tags: #coding #cs #Python #Learnings 
+
 
 ---
 
@@ -29,7 +29,7 @@ while True:
 
 ### Algorithms / Data structures used
 ---
-#binarysearch [[Algorithms]]
+binarysearch [[Algorithms]]
 
 
 ### Learnings

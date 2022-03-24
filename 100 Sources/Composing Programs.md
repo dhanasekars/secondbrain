@@ -12,8 +12,6 @@ Rating:
 
 # Composing Programs
 
->Tags: #Books/CS/ComputationalThinking  #Python 
-
 ---
 
 ## Little history

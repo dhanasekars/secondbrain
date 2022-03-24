@@ -1,7 +1,6 @@
 `16-Mar-2022 | 19:50`
 
-Status: #SlipBox 
-Tags: #Obsidian 
+
 
 ---
 # Call out
@@ -13,4 +12,7 @@ Similar to [[Admonition]] this is default supported
 # Reference
 
 [Call out](https://help.obsidian.md/How+to/Use+callouts)
+
+[[Obsidian MOC]]
+
 

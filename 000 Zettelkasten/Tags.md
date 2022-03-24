@@ -1,8 +1,5 @@
 07-Mar-2022 | 21:43
 
-Status : #SlipBox  
-Tags : #tags #Obsidian
-
 
 # Tags
 
@@ -20,4 +17,4 @@ Use only these
 # Reference
 [[How To Take Smart Notes]] Page 111
 
-[[Obsidian]]
+[[Obsidian MOC]]

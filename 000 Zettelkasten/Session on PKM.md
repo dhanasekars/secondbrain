@@ -1,9 +1,5 @@
 03-Mar-2022 | 19:27
 
-Status : 
-Tags : #LearnByTeaching 
-
-
 
 
 # Session on [[Personal Knowledge Management]]

@@ -1,7 +1,5 @@
 `19-Mar-2022 | 18:31`
 
-Status: #Learnings
-Tags: #Programming #coding 
 
 ---
 # My common programming mistakes & Learnings

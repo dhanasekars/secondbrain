@@ -14,3 +14,6 @@ Instead of creating a separate file first, go to your MOC , type your notes, the
 # Reference
 https://www.youtube.com/watch?v=L9SLlxaEEXY 
 [[MOC]]
+
+
+[[Obsidian MOC]]

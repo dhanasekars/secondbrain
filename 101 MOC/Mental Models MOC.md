@@ -3,7 +3,7 @@
 #🏡
 Capture all mental models that can be applied to take decisions, and used in learning.
 
-The mental models are classified to #design-patterns and #anti-patterns based on the book [[Super Thinking]]
+The mental models are classified to design-patterns and anti-patterns based on the book [[Super Thinking]]
 
 ### Design pattern:
 

@@ -1,6 +1,5 @@
 `22-Mar-2022 | 19:01`
 
-Tags: #Cognitive 
 
 ---
 # What is knowledge?

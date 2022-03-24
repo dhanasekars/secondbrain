@@ -9,7 +9,7 @@ compound expression:  ```-1 - -1```
 
 **call expression** most important kind of compound expression
 eg: ``` max(7.5,10)```
-  here operator specifies a *#function*, 
+  here operator specifies a *function*, 
 
 The functions ```max```  is called (Call expression) with arguments ( 7.5 and 10) and returns 10.
 
