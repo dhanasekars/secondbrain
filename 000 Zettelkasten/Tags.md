@@ -6,11 +6,11 @@
 Keywords(Tags) should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the notes in isolation.
 
 Use only these 
-#🏡 for MOC
-#📝 need to take more notes on this note.
+#🏡 for MOC 
+#📝 need to take more notes.
 #🔗 not linked yet
 #🐍 code
-#💡  Blank notes
+#📌  Blank notes
 
 ---
 

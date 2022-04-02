@@ -1,25 +1,24 @@
-14-Mar-2022 | 9:35 AM
-
+---
+Title: Introduction to Computer Science and Programming Using Python MIT 6.00.1x
+Source: Course
+Format: Online
+Inventory: NA
+Author:
+Status: [Read, ToRead, Reading]
+Shelf: 
+Rating: 1/2/3/4/5
+---
+`24-Mar-2022 | 10:44`
 
 # Introduction to Computer Science and Programming Using Python MIT 6.00.1x
+---
 
->>Tags: 
-Format: 
-Author:
-Shelf:
-Status:
-Read:
-Rating:
-
+> Tags:  
 
 ---
 
 ## Little history
 
-From edX. Intro to Python and Data science
-
-
----
 
 
 # Notes 

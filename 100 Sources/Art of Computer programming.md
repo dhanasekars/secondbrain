@@ -1,6 +1,7 @@
 
 ---
 Title: Art of Computer programming
+Source: Book
 Format: 
 Inventory : NA
 Author: 
@@ -13,7 +14,7 @@ Rating:
 # Art of Computer programming
 ---
 
->Tags:  #Books/CS 
+
 
 
 ## Little history

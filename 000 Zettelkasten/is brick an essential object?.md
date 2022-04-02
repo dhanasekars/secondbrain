@@ -14,4 +14,4 @@ He was part of a discussion group, when the group was discussing about 'essentia
 
 [[ Surely your are joking Mr. Feynman]]
 
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

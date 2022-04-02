@@ -27,7 +27,7 @@ title: Rocket Scientist Thinking
 
 [[Data Science MOC]]
 [[Computational Thinking MOC]]
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]
 
 # Reference
 

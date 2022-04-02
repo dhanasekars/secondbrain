@@ -1,5 +1,6 @@
 ---
 Title: The Great Mental Models
+Source: Book
 Format: eBook
 Inventory : Kindle
 Author: 
@@ -13,13 +14,13 @@ Rating: 1/2/3/4/5
 ---
 
 
----
+
 
 ## Little history
 
 Found them from their blog [Farnam Street](https://fs.blog/)
 
-# Notes 
+## Notes 
 ---
 
 

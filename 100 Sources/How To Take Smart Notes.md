@@ -1,5 +1,6 @@
 ---
 Title: How To Take Smart Notes
+Source: Book
 Format: eBook
 Inventory : Kindle
 Author: Sönke Ahrens
@@ -14,7 +15,6 @@ Rating: 4
 
 # How To Take Smart Notes
 
->Tags: #books #Books/Productivity
 
 
 ---

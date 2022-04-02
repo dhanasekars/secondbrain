@@ -1,3 +1,7 @@
+---
+aliases: [loops,iterable]
+---
+
 15-Mar-2022 | 13:22
 
 

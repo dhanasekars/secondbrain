@@ -13,4 +13,4 @@
 
 # Reference
 [[How To Take Smart Notes]] Page 94
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

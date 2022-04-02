@@ -16,4 +16,4 @@ So better to use visual non-linear tools like [[mindmaps]] [[Obsidian MOC]] etc.
 
 [[How To Take Smart Notes]] - Referring Zull
 
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

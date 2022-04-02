@@ -16,4 +16,4 @@ The ability to control our worl and change course is necesary. More control we h
 
 # Reference
 [[How To Take Smart Notes]]
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

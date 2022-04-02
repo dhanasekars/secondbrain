@@ -11,4 +11,4 @@ Confirm hypothesis is true or not
 ---
 # Reference
 [[Think like a Rocket Scientist]]
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

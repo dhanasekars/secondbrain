@@ -9,4 +9,4 @@
 
 # Reference
 [[How To Take Smart Notes]]
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

@@ -7,7 +7,7 @@ Tags:
 # math equations
 
 $$\begin{vmatrix}a & b\\ c & d \end{vmatrix}=ad-bc$$
-
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference 
 
 ---
 # Reference

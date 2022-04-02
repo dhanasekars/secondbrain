@@ -12,7 +12,7 @@ means they can be treated like any other objects like string and int
 
 Functions as argument is called [[Higher order Programming]] , this is convenient especially in conjunction with list
 
-In python we have [[map]] for HOP. 
+In python we have [[map - python function]] for HOP. 
 
 
 ---

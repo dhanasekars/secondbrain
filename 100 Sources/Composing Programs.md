@@ -1,5 +1,6 @@
 ---
 Title: Composing Programs
+Source: Book
 Format: Online
 Inventory : NA
 Author: John DeNero

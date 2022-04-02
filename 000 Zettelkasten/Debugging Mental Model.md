@@ -33,4 +33,4 @@ After fixing run
 # Reference
 [[Computational Thinking MOC]]
 [[Introduction to Computation and Programming using Python]] Chapter 6
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]

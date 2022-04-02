@@ -1,7 +1,7 @@
 ---
 Title: Joel in Software
 Format: Physical
-Inventory : Bookshelf
+Inventory: Bookshelf
 Author: 
 Status: Read
 Shelf: CS
@@ -12,11 +12,11 @@ Rating: 4
 # Joel in Software
 ---
 
-> Tags:  #Books/CS
 
 ---
 
 ## Little history
+
 
 
 

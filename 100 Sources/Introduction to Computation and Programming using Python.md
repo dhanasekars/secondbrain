@@ -1,5 +1,6 @@
 ---
 Title: Introduction to Computation and Programming using Python
+Source: Book
 Format: Physical
 Inventory : Bookshelf
 Author: John V. Guttag
@@ -12,7 +13,7 @@ Rating:
 
 # Introduction to Computation and Programming using Python
 
-Tags:  #Books/CS/ComputationalThinking
+
 
 ---
 

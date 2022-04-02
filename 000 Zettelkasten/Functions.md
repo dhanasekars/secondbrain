@@ -17,6 +17,14 @@ will force us to always work with primitives in the language.
 
 ```
 
+### Pass
+when you don't have any expression yet in your function.
+
+```py
+def hello():
+	pass 
+```
+
 
 
 ### Decomposition : 

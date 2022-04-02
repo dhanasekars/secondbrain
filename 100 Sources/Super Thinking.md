@@ -1,5 +1,6 @@
 ---
 Title: Super Thinking
+Source: Book
 Format: eBook
 Inventory : Kindle
 Author: [Gabriel Weinberg, Lauren McCann]

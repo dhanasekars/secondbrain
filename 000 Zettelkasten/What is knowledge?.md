@@ -11,4 +11,4 @@ Your knowledge is network of interconnect thoughts
 # Reference
 
 [morganeua](https://www.youtube.com/channel/UCVCaYGoX8UXU7N7v5KdvkiQ) 04:00
-[[Mental Models MOC]]
+[[Mental Models  - MOC]]
