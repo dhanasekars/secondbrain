@@ -11,6 +11,7 @@ Function can be  any Python callable. This includes [built-in functions](https:/
 
 [map blog](http://mitxcsjourney.blogspot.com/2020/07/introduction-to-map-function-behind.html)
 
+
 ---
 # Reference
 

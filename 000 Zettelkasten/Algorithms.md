@@ -19,10 +19,8 @@ It's a recipe that satisfies the following three steps
 ---
 # Reference
 [[Computational Thinking MOC]]
-
-
 [[Dynamic Programming]]
-
+[[Greedy Algorithm]] 
 
 
 

@@ -15,3 +15,6 @@
 [[Mathematical Induction]]
 [[math equations]]
 [[how to solve it]]
+
+
+[[Logarithms]]

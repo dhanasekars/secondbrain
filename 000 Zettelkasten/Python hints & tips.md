@@ -57,3 +57,7 @@ Than using if and else
 ^fb9e0d
 
 [[Computation thinking - Learnings]]
+[[Pycharm]]
+[[map - python function]]
+
+[[modules]]

@@ -30,7 +30,7 @@ else:
 	return fib(x-1) + fib(x-2)
 ```
 
-### Efficient using [[Phython - Dictionaries]]
+### Efficient using [[Python - Dictionaries]]
 
 ---
 # Reference

@@ -1,4 +1,4 @@
-11-Mar-2022 | 07:40
+ 11-Mar-2022 | 07:40
 
 
 
@@ -24,6 +24,16 @@ title: Patterns
 express certain general patterns as named concepts, we need higher-order functions.
 
 ```
+
+There is no ```()``` while passing function as argument, because ```()``` triggers the function call then and there. 
+
+Example 
+
+```py
+screen.onkey(key='w', fun=user_defined)
+```
+
+Here $onkey$ is called higher order function, the one that takes function as input/argument is called as higher order function. 
 
 
 ---

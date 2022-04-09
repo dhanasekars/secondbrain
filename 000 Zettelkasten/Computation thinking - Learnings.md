@@ -15,3 +15,4 @@
 [[Learnings from gcd program]]
 [[Learnings from gcd using Euclid's Algorithm]]
 [[Learnings from efficient fibonacci]]
+[[Learning from cow transportation]]
