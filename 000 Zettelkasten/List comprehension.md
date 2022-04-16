@@ -20,7 +20,13 @@ In the above if is applied first and then for the modified sequence x * x is app
 Best use case when you want to do L1 - L2   
 [Stack over flow example](https://stackoverflow.com/questions/4211209/remove-all-the-elements-that-occur-in-one-list-from-another)
 
+
+```py
+
+new_list = [ new_item for item in list if test]
+```
+
 ---
 # Reference
 
-[[Python hints & tips]]
+[[Python]]

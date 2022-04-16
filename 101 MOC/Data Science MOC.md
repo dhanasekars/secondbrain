@@ -19,10 +19,12 @@ Computing is a central component because programming allows us to apply analysis
 
 ## Learning path
  - [x]  [[CS50]]
- - [ ] [[Introduction to Computer Science and Programming Using Python MIT 6.00.1x]]
+ - [x] [[Introduction to Computer Science and Programming Using Python MIT 6.00.1x]]
  - [ ] [[ Introduction to Computational Thinking and Data Science 6.00.2x]]
  - [ ] [[ Computational and Inferential Thinking]]
- - [ ] 
+ - [ ]  [[Pandas]]
+ - [ ] [Python Bootcamp by App Brewery](https://www.udemy.com/course/100-days-of-code/)
+
  
 
 

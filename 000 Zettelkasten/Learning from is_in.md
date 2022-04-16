@@ -14,7 +14,7 @@ There was only one syntax error and on logical error, but both were quick to spo
 
 Spent an hour, but it was more efficient than hurry to complete the code. 
 
-[[Python hints & tips#^fb9e0d]]
+[[Python#^fb9e0d]]
 
 
 ---

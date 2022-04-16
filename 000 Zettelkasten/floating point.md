@@ -39,3 +39,5 @@ For example 0.625 can be converted to a whole number by multiplying it with 2 **
 ---
 # Reference
 [[Computational Thinking MOC]]
+
+[15. Floating Point Arithmetic: Issues and Limitations — Python 3.10.4 documentation](https://docs.python.org/3/tutorial/floatingpoint.html)

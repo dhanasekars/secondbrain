@@ -10,4 +10,4 @@ Generators are [[Loops|iterable]] that instead of returning entire list returns 
 # Reference
 
 
-[[Python hints & tips]]
+[[Python]]

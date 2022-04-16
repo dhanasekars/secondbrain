@@ -20,5 +20,9 @@ def __init__(self)
 
 Use Setters and Getters, to avoid interacting with the internal implementation of the Class. A way to enhance Encapsulation.
 
+[[working with modules]]
+
+
+
 ---
 # Reference

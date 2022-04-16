@@ -17,4 +17,4 @@ Function can be  any Python callable. This includes [built-in functions](https:/
 
 [[Higher-Order Functions]]
 
-[[Python hints & tips]]
+[[Python]]
