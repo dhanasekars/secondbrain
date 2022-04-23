@@ -72,3 +72,5 @@ Than using if and else
 [[Unlimited arguments]]
 
 [[dynamic typing]]
+
+[[python-decorators]]
