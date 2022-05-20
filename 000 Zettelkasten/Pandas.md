@@ -7,9 +7,9 @@ The most critical package for [[Data Science MOC]]
 
 Two primary [[Data structures]]
 
-Data Frame (df) a two dimensional data.  It is as good as [[Python - Dictionaries]]
+[[Data Frame]] (df) a two dimensional data.  It is as good as [[Python - Dictionaries]]
 
-Series - one dimensional data - can be treated like any python [[Loops|iterable]]
+[[Series]] - one dimensional data - can be treated like any python [[Loops|iterable]]
 
 ```ad-tip
 title: attributes
