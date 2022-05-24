@@ -9,7 +9,7 @@ Needs to install third party plugin
 
 ```dataview
 
-Table Shelf as "Shelf", Status as "Status" FROM "100 Books" WHERE Status = "Reading"
+Table Shelf as "Shelf", Status as "Status" FROM "100 Books" WHERE Status = "Read"
 
 ```
 

@@ -1,5 +1,4 @@
 ---
-Title: Think Like a Rocket Scientist
 Format: eBook
 Inventory : Kindle
 Author: Ozan Varol

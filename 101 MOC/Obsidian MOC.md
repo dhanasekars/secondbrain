@@ -1,3 +1,8 @@
+---
+aliases: [Obsidian]
+---
+
+
 09-Mar-2022 | 10:40 PM
 
 ```ad-info
@@ -16,7 +21,8 @@ Rating: #NA
 ---
 
 ## Little history
----
+
+Suggested by Sreenuraj first then the same week I was reading the book [[How To Take Smart Notes]] that has reference to [[zettelkasten / slip box ]] and immediately realised the connection between [[Obsidian MOC|Obsidian]]^ and [[zettelkasten / slip box]]
 
 
 # Notes 
