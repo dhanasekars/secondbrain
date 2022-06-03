@@ -1,6 +1,5 @@
 `23-Mar-2022 | 11:35`
 
-#📝
 
 ---
 # Circle of Competence

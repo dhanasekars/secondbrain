@@ -31,9 +31,24 @@ df.condition
 df["condition"]
 ```
 
+some built in condition selectors are like
+
+```
+isin()
+isnull()
+notnull()
+```
 
 ---
 # Reference
 
 [[Data Science MOC]]
+
+
+[[Data Selection in Pandas]]
+
+
+[[ Maps and apply in Pandas]]
+
+
 
