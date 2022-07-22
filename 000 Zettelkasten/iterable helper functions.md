@@ -15,7 +15,7 @@ for color in reversed(colors):
 
 ``` ad-note
 
-$for$ loop is not reversting, the reverse is!
+$for$ loop is not reversing, the reverse is!
 
 ```
 
@@ -44,6 +44,9 @@ for color, animal in zip(colors, animals):
 >> green kitten
 
 ```
+
+$zip()$  function returns a zip object, which is an iterator of tuples. 
+
 
 [[Range]] is another function used along to return an iterable.
 
